@@ -1,5 +1,5 @@
 ## Documentacion completa
- - [Manual de usuario](https://google.com)
+ - [Manual de usuario](https://uceedu-my.sharepoint.com/:b:/g/personal/cdferri_uce_edu_ec/EfqzyTPan75NkbgR_BW5cvQBEeyKfPAu1ouviCFb5pd6vw?e=MDbwDn)
  - [Proyecto (Respaldo)](https://uceedu-my.sharepoint.com/:u:/g/personal/cdferri_uce_edu_ec/ERtmejWp6PBFqHMkcbM-5OgBBdOuShoWLXoBMIabx7jGGA?e=zFdxzc)
 
 # Operaciones CRUD en Servlet y JSP
